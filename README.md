@@ -13,15 +13,3 @@ This library simplifies interaction with Pixabay's REST API by mapping JSON resp
 - Minimal dependencies (Jackson, HttpClient5, Lombok)
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Add dependency (if using locally)
-If you built this locally:
-
-```xml
-<dependency>
-  <groupId>org.example</groupId>
-  <artifactId>pixabay-wrapper</artifactId>
-  <version>1.0-SNAPSHOT</version>
-</dependency>
